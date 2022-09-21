@@ -1,0 +1,29 @@
+.body {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.navigation img {
+    width: 10%;
+}
+.post-navigation img {
+    width: 35%;
+}
+.post-navigation h1 {
+    position: absolute;
+    margin-top: -25%;
+    margin-left: 40%;
+    font-size: 70px;
+    color: orange;
+    font-weight: 400;
+}
+.post-navigation h3 {
+    position: absolute;
+    margin-top: -18%;
+    margin-left: 47%;
+    font-weight: 100;
+    font-size: 25px;
+    opacity: 30%;
+}
