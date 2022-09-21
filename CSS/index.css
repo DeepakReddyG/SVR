@@ -5,10 +5,7 @@
 .container {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-.navigation img {
-    width: 10%;
-}
-.post-navigation img {
+/* .post-navigation img {
     width: 35%;
 }
 .post-navigation h1 {
@@ -26,4 +23,16 @@
     font-weight: 100;
     font-size: 25px;
     opacity: 30%;
+} */
+.post-navigation {
+    display: inline;
+}
+.post-navigation-text {
+    display: inline;
+}
+.post-navigation img {
+    width: 20%;
+}
+.post-navigation-text h1 {
+   display: block;
 }
