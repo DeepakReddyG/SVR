@@ -1,1 +1,1 @@
-# SVR
+# SVR - Smart Village Revolution
